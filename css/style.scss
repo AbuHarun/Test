@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .site-container{
+    width: 85%;
+    margin: auto;
+    margin: 1rem  auto;
+    padding: 1rem 0rem;
+}
+
+  body {
+    background-color: cadetblue;
+
+    header{
+        position: relative;
+        .navbar{
+           // background-color: blue !important;
+            color: #ffffff;
+            
+        }
+    }
+    
+    .site-container{
+      max-width: 90%;
+      width: 1285px;
+      margin: auto;
+    }
+  }
+
+
+  
